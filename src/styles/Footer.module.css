@@ -1,0 +1,13 @@
+.footer{
+    background-color: black;
+    height: 70px;
+    color: white;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    position: static;
+}
+
+.facundoMuller{
+    text-decoration: none;
+}

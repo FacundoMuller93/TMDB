@@ -1,0 +1,16 @@
+.title{
+    padding-top: 2%;
+    font-weight: bold;
+    color: rgb(233, 213, 188);
+    text-transform: uppercase;
+}
+
+.searchCard{
+    text-align: center;
+}
+
+.homeImage{
+    height: 500px;
+    width: 330px;
+    border-radius: 5%;
+}

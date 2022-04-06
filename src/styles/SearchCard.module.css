@@ -1,0 +1,14 @@
+.title{
+    padding-top: 2%;
+    font-weight: bold;
+}
+
+.searchCard{
+    text-align: center;
+}
+
+.searchImage{
+    height: 500px;
+    width: 330px;
+    border-radius: 5%;
+}

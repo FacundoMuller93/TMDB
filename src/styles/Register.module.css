@@ -1,0 +1,23 @@
+.container{
+   text-align: center;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    padding-top: 8%;
+    height:100vh;  
+}
+
+.input{
+    text-align: center;
+}
+
+.btn{
+
+}
+
+.title{
+    text-align: center;
+    color: rgb(233, 213, 188);
+}

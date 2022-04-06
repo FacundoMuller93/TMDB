@@ -1,0 +1,31 @@
+.title{
+    text-align: center;
+    font-weight: bold;
+    padding-top: 5%;
+    font-size: 2rem;
+    color:rgb(233, 213, 188);
+}
+
+.favorites{
+    padding-top: 3%;
+    padding-bottom: 1%;
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.5rem;
+    color:rgb(233, 213, 188);
+}
+
+.favList{
+    text-align: center;
+    list-style-type: none;
+    color:rgb(233, 213, 188);
+}
+
+.homeGrid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, 340px);
+    gap: 40px;
+    padding: 40px;
+    justify-content: center;
+    list-style-type: none;
+}

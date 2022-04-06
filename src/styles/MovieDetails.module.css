@@ -1,0 +1,77 @@
+.container{
+    display: flex;
+    align-items: center;
+    list-style: none;
+    max-width: 60%;
+    height: 30%;
+    margin: 0 auto;
+    gap: 8%;
+    background-color: rgb(35, 123, 158);
+    position: relative;
+    top: 17rem;
+    padding-right: 4%;
+    border-radius: 7%;
+    overflow:hidden;
+}
+
+.picture{
+    border-radius: 7%;
+}
+
+.title{
+    padding-top: 4%;
+    padding-bottom: 4%;
+    font-weight: bold;
+    text-align: center;
+    color: rgb(233, 213, 188);
+    text-transform: uppercase;
+    font-size: 1.4rem;
+}
+
+.star{
+color: rgb(255, 177, 8);
+}
+
+.text{
+    color: rgb(233, 213, 188);
+    font-size: 1.2rem;
+    padding-bottom: 3%;
+}
+
+
+.filledHeart{
+    color: red;
+    justify-content: right;
+}
+
+.emptyHeart{
+    color: white;
+}
+
+.detailsContainer{
+    width: 100%;
+}
+
+.favoritesContainer{
+    display: flex;
+    color: rgb(233, 213, 188);
+    padding-bottom: 7%;
+}
+
+.favoritesTitle{
+    color: rgb(233, 213, 188);
+    font-weight: 700;
+    padding-right: 2%;
+}
+
+.tagline{
+    text-align: center;
+    color: rgb(233, 213, 188);
+    font-weight: 300;
+    font-size: 1.2rem;
+    padding-bottom: 6%;
+}
+
+.heartContainer{
+    padding-left: 97%;
+}

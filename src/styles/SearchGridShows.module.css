@@ -1,0 +1,11 @@
+.searchGridShows{
+    display: grid;
+    grid-template-columns: repeat(auto-fill, 340px);
+    gap: 40px;
+    padding: 40px;
+    justify-content: center;
+    padding-top: 2%;
+    font-weight: bold;
+    color: rgb(233, 213, 188);
+    text-transform: uppercase;
+}
