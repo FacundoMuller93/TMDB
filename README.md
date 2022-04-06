@@ -9,4 +9,4 @@ posibilidad de agregar y eliminar peliculas de favoritos,
 cada usuario cuenta con su perfil, donde podrá ver la lista de peliculas favoritas y acceder a los detalles de cada pelicula directamente desde ahí.
 
 Tecnologías usadas en este proyecto:
-JavaScript, CSS, HTML, React, Redux, Sequelize, Express, NodeJS, PSQL, CSS Modules, React Bootstrap,axios para pedidos a la API de TMDB, etc.
+JavaScript, CSS, HTML, React, Redux, Sequelize, Express, NodeJS, PSQL, CSS Modules, React Bootstrap, Axios para pedidos a la API de TMDB, etc.
